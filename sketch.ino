@@ -7,7 +7,7 @@ const char* password = "";
    // Replace with your Wi-Fi password
 
 
-const char* apiURL = "http://your.api.url/here?key=YOUR_API_KEY_HERE"; // Replace with your actual API URL
+const char* apiURL = "http://your.api.url/.'priyanshu"; // Replace with your actual API URL
 
 // Pin definitions
 const int ldrPin = 34;                    // LDR sensor connected to analog pin 34
